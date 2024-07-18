@@ -1,13 +1,3 @@
-// import React from "react"
-// import './App.css';
-//   export default function App(){
-//    return (
-//      <>
-//       <h2>helo world</h2>
-//      </>  
-//    )
-//  }
-
 import React, { useEffect, useState } from 'react';
 import CanvasJSReact from '@canvasjs/react-charts';
 import { data } from './Data';
